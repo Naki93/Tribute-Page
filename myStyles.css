@@ -1,0 +1,180 @@
+body{
+    
+   background-color: black;
+   color:white;
+   padding-left: 15px;
+   padding-right: 15px;
+  
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
+
+.nav{
+    display: flex;
+    justify-content:center;
+}
+.nav a{
+    color:white;
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: large;
+    list-style: none;
+    text-decoration: none;
+    
+    
+    
+}
+a:hover{
+    color: red;
+}
+
+
+
+ul{
+list-style:none;
+padding-top: 5px;
+padding-bottom: 5px;
+
+}
+li{
+    
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+}
+.main .image{
+    align-items: center;
+    
+}
+
+
+.image img{
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+max-width: 750px;
+ 
+}
+
+.figure{
+    text-align: center;
+}
+span{
+    font-weight: bolder;
+    color:white;
+}
+
+#section-1{
+    text-align: center;
+    
+    font-size: large;
+    padding-left: 15px;
+}
+
+.quotes{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: large;
+}
+
+#article-2 li{
+    padding-left: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+#article-2{
+    
+   
+position: relative;
+width: fit-content;
+height: fit-content;
+background: transparent;
+border: 1px solid;
+border-radius: 25px;
+
+
+}
+#article-2:before{
+    content: '';
+   
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgba(114, 110, 110, 0.5);
+    border-radius: 25px;
+    
+    
+    
+    }
+#article-2 p{
+    text-align: center;
+}
+
+.quote-1,
+.quote-3{
+    
+    text-align: right;
+    padding-right: 20px;
+   
+    
+}
+
+.quote-2,
+.quote-4{
+    text-align: left;
+    padding-right: 20px;
+}
+
+h2{
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: left;
+    border: 1px solid grey;
+    
+
+}
+
+.timeline{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#footer{
+    background-color:  rgba(114, 110, 110, 0.5);
+    height: 90px;
+    border-radius: 25px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+#footer a{
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+     
+}
+#footer a:hover{
+    color: red;
+}
+
+#footer p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
+
+
