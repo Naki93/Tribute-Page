@@ -1,12 +1,12 @@
-# Voddie Baucham Tribute Page
-### Description
-### This repository contains the source code and assets for a tribute page dedicated to Voddie Baucham, a Christian apologist known for his contributions to Christian theology and apologetics.
+###Voddie Baucham Tribute Page
+###Description
+###This repository contains the source code and assets for a tribute page dedicated to Voddie Baucham, a Christian apologist known for his contributions to Christian theology and apologetics.
 
-## Table of Contents
-### Features
-### Demo
-### Installation
-### Usage
+###Table of Contents
+###Features
+###Demo
+###Installation
+###Usage
 ### Contributing
 ### License
 ### Features
